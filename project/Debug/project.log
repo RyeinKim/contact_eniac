@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\ryein\onedrive\desktop\github\contact_eniac\project\main.c(22): warning C4101: 'num' :참조되지 않은 지역 변수입니다.
+c:\users\ryein\onedrive\desktop\github\contact_eniac\project\main.c(104): warning C4133: '함수': 'FILE *'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+  project.vcxproj -> C:\Users\ryein\OneDrive\Desktop\GitHub\contact_eniac\Debug\project.exe
